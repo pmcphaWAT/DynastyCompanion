@@ -1,0 +1,25 @@
+.navbar {
+    height: 50px;
+}
+
+.fa-football-helmet {
+    width: 20px;
+}
+
+i {
+    color: white;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+.under-construction{
+     text-align: center;
+     margin-top: 10rem;
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+lottie-player {
+    align-content: center;
+}
